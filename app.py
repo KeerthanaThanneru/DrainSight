@@ -3,7 +3,7 @@ import streamlit as st
 from src.ui_helpers import (get_sim, get_state, sidebar_status, kpis, risk_map, risk_table,
                             load_json, LEVEL_COLORS, LEVELS_ORDER)
 
-st.set_page_config(page_title="DrainGuard AI", page_icon="🌧️", layout="wide")
+st.set_page_config(page_title="DrainSight AI", page_icon="🌧️", layout="wide")
 st.title("🌧️ DrainSight AI")
 st.caption("Early drain-blockage detection and flood warning: simulated IoT + rainfall + AI risk scoring")
 
