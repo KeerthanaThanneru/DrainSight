@@ -4,7 +4,7 @@ from src.ui_helpers import (get_sim, get_state, sidebar_status, kpis, risk_map, 
                             load_json, LEVEL_COLORS, LEVELS_ORDER)
 
 st.set_page_config(page_title="DrainGuard AI", page_icon="🌧️", layout="wide")
-st.title("🌧️ DrainGuard AI")
+st.title("🌧️ DrainSight AI")
 st.caption("Early drain-blockage detection and flood warning: simulated IoT + rainfall + AI risk scoring")
 
 get_sim()
