@@ -1,0 +1,61 @@
+drain_id,name,lat,lon,location_type,elevation_m,age_years,last_cleaned,past_blockages,criticality
+D001,Residential Drain #1,19.09792,72.89117,residential,21.6,11,2026-08-03,1,3
+D002,Residential Drain #2,19.07111,72.87539,residential,12.7,16,2026-02-28,1,1
+D003,Market Drain #3,19.10469,72.88292,market,22.0,23,2026-06-08,3,5
+D004,Residential Drain #4,19.09179,72.8989,residential,20.1,19,2026-04-10,0,2
+D005,Market Drain #5,19.04353,72.88848,market,10.6,28,2026-06-19,4,4
+D006,Residential Drain #6,19.11405,72.88199,residential,15.9,27,2026-08-14,1,1
+D007,Residential Drain #7,19.09689,72.88244,residential,25.3,23,2026-06-28,0,3
+D008,Market Drain #8,19.09889,72.86202,market,21.1,19,2026-09-02,3,3
+D009,Market Drain #9,19.04625,72.84017,market,1.6,9,2026-03-26,7,4
+D010,Residential Drain #10,19.07203,72.87264,residential,13.4,13,2026-08-11,1,2
+D011,Market Drain #11,19.06566,72.85487,market,2.1,4,2026-06-27,2,5
+D012,Highway Drain #12,19.11014,72.87038,highway,16.4,12,2026-02-05,1,4
+D013,Residential Drain #13,19.08751,72.90597,residential,16.5,28,2026-05-07,0,1
+D014,Residential Drain #14,19.10182,72.85642,residential,20.1,13,2026-06-08,1,1
+D015,Residential Drain #15,19.07147,72.84236,residential,2.2,4,2026-05-19,0,2
+D016,Market Drain #16,19.05418,72.86021,market,3.6,20,2026-03-23,3,5
+D017,Highway Drain #17,19.08037,72.86119,highway,17.3,29,2026-07-26,4,4
+D018,Residential Drain #18,19.04111,72.89065,residential,9.3,27,2026-04-27,1,2
+D019,Near Construction Drain #19,19.10221,72.88226,near_construction,21.3,9,2026-03-02,5,3
+D020,Market Drain #20,19.08653,72.90041,market,16.8,14,2026-05-12,4,5
+D021,Residential Drain #21,19.09665,72.89085,residential,21.0,16,2026-06-11,1,2
+D022,Residential Drain #22,19.06436,72.87021,residential,8.8,8,2026-08-20,1,2
+D023,Highway Drain #23,19.11366,72.90282,highway,9.7,9,2026-07-27,1,4
+D024,Residential Drain #24,19.10745,72.85106,residential,13.5,8,2026-02-13,2,2
+D025,Residential Drain #25,19.09827,72.83952,residential,14.6,30,2026-05-19,3,2
+D026,Residential Drain #26,19.05157,72.8449,residential,1.0,23,2026-07-15,1,2
+D027,Residential Drain #27,19.07334,72.89549,residential,11.2,26,2026-06-17,1,1
+D028,Residential Drain #28,19.0395,72.87465,residential,11.0,25,2026-05-11,2,3
+D029,Residential Drain #29,19.04834,72.8506,residential,1.6,29,2026-05-20,3,3
+D030,Market Drain #30,19.09064,72.87778,market,22.1,4,2026-04-12,2,4
+D031,Near Construction Drain #31,19.09558,72.84988,near_construction,14.0,27,2026-07-25,1,2
+D032,Highway Drain #32,19.1134,72.89341,highway,12.6,2,2026-04-24,1,4
+D033,Market Drain #33,19.06207,72.87339,market,8.0,15,2026-06-11,5,4
+D034,Residential Drain #34,19.06564,72.86818,residential,10.2,18,2026-02-14,1,2
+D035,Market Drain #35,19.07356,72.86182,market,9.1,11,2026-08-17,1,4
+D036,Near Construction Drain #36,19.05116,72.88812,near_construction,7.2,5,2026-08-20,2,4
+D037,Residential Drain #37,19.04639,72.86665,residential,8.0,6,2026-06-07,1,3
+D038,Near Construction Drain #38,19.07406,72.84471,near_construction,4.2,25,2026-05-27,7,4
+D039,Near Construction Drain #39,19.05415,72.84714,near_construction,1.0,10,2026-04-14,2,5
+D040,Near Construction Drain #40,19.08959,72.91465,near_construction,12.8,10,2026-06-21,2,4
+D041,Market Drain #41,19.07097,72.91039,market,4.9,28,2026-02-21,5,5
+D042,Highway Drain #42,19.10261,72.89368,highway,19.2,5,2026-06-04,2,5
+D043,Market Drain #43,19.09202,72.85897,market,18.2,28,2026-08-24,7,3
+D044,Market Drain #44,19.06099,72.91523,market,1.0,28,2026-08-26,2,5
+D045,Residential Drain #45,19.10258,72.9,residential,17.2,18,2026-02-07,0,3
+D046,Residential Drain #46,19.10038,72.89505,residential,19.8,5,2026-08-23,0,2
+D047,Near Construction Drain #47,19.067,72.87365,near_construction,8.9,5,2026-02-13,1,4
+D048,Near Construction Drain #48,19.05907,72.85948,near_construction,4.1,9,2026-07-20,2,4
+D049,Residential Drain #49,19.0906,72.84541,residential,13.9,18,2026-09-02,0,1
+D050,Highway Drain #50,19.04718,72.90991,highway,4.1,5,2026-07-14,0,5
+D051,Residential Drain #51,19.05199,72.87416,residential,11.1,14,2026-05-02,2,1
+D052,Residential Drain #52,19.03659,72.85389,residential,8.2,4,2026-06-15,1,1
+D053,Residential Drain #53,19.09895,72.86218,residential,20.1,17,2026-03-23,4,2
+D054,Highway Drain #54,19.08919,72.88404,highway,20.2,1,2026-05-03,0,5
+D055,Market Drain #55,19.09241,72.85184,market,15.4,22,2026-06-21,2,4
+D056,Market Drain #56,19.09846,72.90623,market,15.8,2,2026-04-27,3,4
+D057,Residential Drain #57,19.07271,72.89838,residential,10.5,6,2026-02-07,1,1
+D058,Highway Drain #58,19.0815,72.89526,highway,14.3,6,2026-06-19,0,3
+D059,Highway Drain #59,19.04718,72.87227,highway,8.7,25,2026-08-18,3,3
+D060,Near Construction Drain #60,19.04516,72.88788,near_construction,6.3,2,2026-06-19,1,3
